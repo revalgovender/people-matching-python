@@ -8,7 +8,7 @@
 
 ## Task Description
 
-Given two arrays with personal data of people (name, email, company)
+Given two lists with personal data of people (name, email, company)
 
 ### Candidates
 
