@@ -115,5 +115,5 @@ $ python main.py
 
 ## Future Improvements
 
-- Add more tests
+- Add tests
 - Maybe add more comments to make code easier to understand
