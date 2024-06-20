@@ -29,7 +29,7 @@ Given two lists with personal data of people (name, email, company)
   {
     "id": 3,
     "name": "Elliot Reed",
-    "email": "elliot.reed+1@gmail.com",
+    "email": "elliot.reed@gmail.com",
     "company": "microsoft"
   },
   {
